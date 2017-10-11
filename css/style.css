@@ -17,4 +17,15 @@ select {
   margin-bottom: 10px;
   border: none;
 }
+
+button {
+color: #b8b894;
+background-color: #ccccb3;
+font-size: 16px;
+text-align: center;
+font-style: normal;
+position:relative;
+top:50%; 
+left:50%;
+}
   
