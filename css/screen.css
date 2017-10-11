@@ -236,5 +236,8 @@ left:40%;
 }
 
 /* ===== MODULAR STYLES ===== */
+#age-verification + label {
+  background-color: #e1e1d0;
+  display: block;
 
 /* ===== STATE STYLES ======= */
