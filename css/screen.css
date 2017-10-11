@@ -219,20 +219,20 @@ select {
   height: auto;
   width: 60%;
   padding: 10px;
-  background-color: #c2c2a3;
+  background-color: #d6d6c2;
   margin-bottom: 10px;
   border: none;
 }
 
 button {
 color: #b8b894;
-background-color: #ccccb3;
+background-color: #c2c2a3;
 font-size: 16px;
 text-align: center;
 font-style: normal;
 position:relative;
-top:50%; 
-left:50%;
+top:40%; 
+left:40%;
 }
 
 /* ===== MODULAR STYLES ===== */
